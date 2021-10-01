@@ -1,0 +1,62 @@
+{
+   "courses_data": [
+      {
+         "course_name": "BCS120 - Foundations Computer Prog 1",
+         "course_desc": "This course introduces the C++ Programming Language as a means of developing structured programs. Students will be taught to develop algorithms using top-down stepwise refinement. Students will be introduced to the concept of Object Oriented programming through the use of pre-defined classes. In addition, students will get a thorough exposure to C++ syntax and debugging techniques",
+         "course_id": 0,
+         "course_meetings": [
+            {
+               "day": "Online",
+               "time": "Online"
+            },
+            {
+               "day": "Online",
+               "time": "Online"
+            }
+         ],
+         "course_sect": "93502",
+         "course_link": "https://farmingdale.open.suny.edu/webapps/blackboard/execute/modulepage/view?course_id=_49994_1&cmp_tab_id=_107168_1&mode=view",
+         "course_prof": [
+            {
+               "prof_name": "Matthew Fried",
+               "prof_email": "friedm1@farmingdale.edu",
+               "prof_office": "Whitman 128",
+               "prof_website": "",
+               "prof_rating": 3,
+               "prof_office_hours": "online"
+            }
+         ],
+         "course_start": "08-30-2021",
+         "course_end": "12-20-2021",
+         "course_classrooms": [
+            {
+               "day": "online",
+               "room": "online"
+            }
+         ],
+         "course_assignments": [
+            {
+               "assignment_id": 0,
+               "assignment_due_date": "Tuesday",
+               "assignment_title": "Zybooks Assignment",
+               "assignment_grade": "",
+               "assignment_link": "https://learn.zybooks.com/zybook/FARMINGDALEBCS120FriedFall2021?selectedPanel=assignments-panel"
+            },
+            {
+               "assignment_id": 0,
+               "assignment_due_date": "Sunday",
+               "assignment_title": "Quiz",
+               "assignment_grade": "",
+               "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset"
+            },
+            {
+               "assignment_id": 0,
+               "assignment_due_date": "Tuesday",
+               "assignment_title": "Homework Assignment",
+               "assignment_grade": "",
+               "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset"
+            }
+         ]
+      }
+   ]
+}
