@@ -53,7 +53,8 @@
                "assignment_grade": "",
                "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset"
             }
-         ]
+         ],
+         "theme_id": 0
       },
       {
          "id": 1,
@@ -101,7 +102,8 @@
                "assignment_grade": "",
                "assignment_link": "https://farmingdale.open.suny.edu/webapps/bbgs-mindlinks-BBLEARN/app/launch?destination=mindlinks_launch&course_id=_46546_1&content_id=_2012540_1"
             }
-         ]
+         ],
+         "theme_id": 1
       },
       {
          "id": 2,
@@ -156,7 +158,8 @@
                "assignment_grade": "",
                "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset"
             }
-         ]
+         ],
+         "theme_id": 2
       },
       {
          "id": 3,
@@ -191,7 +194,8 @@
          "course_end": "12-20-2021",
          "course_assignments": [
             {}
-         ]
+         ],
+         "theme_id": 3
       }
    ]
 }
