@@ -57,7 +57,7 @@
       {
          "course_name": "BCS160 - Computer Concepts and Application",
          "course_desc": "This is an introductory course that provides students with the knowledge to stay current and informed in a technology-oriented, global society. Students will receive instruction in basic computer concepts and terminology, the fundamentals of the Windows operating system and have hands on experience at the beginning to intermediate level using Microsoft Excel and Access. The Internet will be used to supplement textbook and lecture materials. Credits: 3.00",
-         "course_id": 0,
+         "course_id": 1,
          "course_meetings": [
             {
                "day": "Tuesday",
@@ -104,7 +104,7 @@
       {
          "course_name": "BCS120 - Foundations Computer Prog 1",
          "course_desc": "This course introduces the C++ Programming Language as a means of developing structured programs. Students will be taught to develop algorithms using top-down stepwise refinement. Students will be introduced to the concept of Object Oriented programming through the use of pre-defined classes. In addition, students will get a thorough exposure to C++ syntax and debugging techniques",
-         "course_id": 0,
+         "course_id": 3,
          "course_meetings": [
             {
                "day": "Online",
