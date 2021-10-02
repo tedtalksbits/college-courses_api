@@ -40,14 +40,14 @@
                "assignment_link": "https://learn.zybooks.com/zybook/FARMINGDALEBCS120FriedFall2021?selectedPanel=assignments-panel"
             },
             {
-               "assignment_id": 0,
+               "assignment_id": 1,
                "assignment_due_date": "Sunday",
                "assignment_title": "Quiz",
                "assignment_grade": "",
                "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset"
             },
             {
-               "assignment_id": 0,
+               "assignment_id": 2,
                "assignment_due_date": "Tuesday",
                "assignment_title": "Homework Assignment",
                "assignment_grade": "",
@@ -73,7 +73,7 @@
             }
          ],
          "course_sect": "93291",
-         "course_link": "https://farmingdale.open.suny.edu/webapps/blackboard/execute/modulepage/view?course_id=_49994_1&cmp_tab_id=_107168_1&mode=view",
+         "course_link": "https://farmingdale.open.suny.edu/webapps/blackboard/execute/launcher?type=Course&id=_46546_1&url=",
          "course_prof": [
             {
                "prof_name": "George R. Kuscsik",
@@ -95,7 +95,7 @@
                "assignment_link": "https://farmingdale.open.suny.edu/bbcswebdav/pid-2010330-dt-content-rid-22252992_1/xid-22252992_1"
             },
             {
-               "assignment_id": 0,
+               "assignment_id": 1,
                "assignment_due_date": "Wednesday",
                "assignment_title": "SAM Project Lab",
                "assignment_grade": "",
@@ -105,31 +105,31 @@
       },
       {
          "id": 2,
-         "course_name": "BCS120 - Foundations Computer Prog 1",
-         "course_desc": "This course introduces the C++ Programming Language as a means of developing structured programs. Students will be taught to develop algorithms using top-down stepwise refinement. Students will be introduced to the concept of Object Oriented programming through the use of pre-defined classes. In addition, students will get a thorough exposure to C++ syntax and debugging techniques",
+         "course_name": "ENG310 - Technical Writing",
+         "course_desc": "A detailed study of the fundamentals of writing technical reports and other technical communications. Topics emphasized include the elements of a technical report, the interpretation of statistics and data, and the composition of letters, memos, and informal reports containing technical information. Assignments and student exercises are drawn from the student’s technical area.",
          "course_id": 2,
          "course_meetings": [
             {
-               "day": "Online",
-               "time": "Online",
-               "room": ""
+               "day": "Monday",
+               "time": "12:15pm",
+               "room": "328 Gleeson Hall"
             },
             {
-               "day": "Online",
-               "time": "Online",
-               "room": ""
+               "day": "Wednesday",
+               "time": "12:15pm",
+               "room": "225 Gleeson Hall"
             }
          ],
-         "course_sect": "93502",
+         "course_sect": "94197",
          "course_link": "https://farmingdale.open.suny.edu/webapps/blackboard/execute/modulepage/view?course_id=_49994_1&cmp_tab_id=_107168_1&mode=view",
          "course_prof": [
             {
-               "prof_name": "Matthew Fried",
-               "prof_email": "friedm1@farmingdale.edu",
-               "prof_office": "Whitman 128",
+               "prof_name": "Christopher Iverson",
+               "prof_email": "iversoc@farmingdale.edu",
+               "prof_office": "38 Knapp Hall",
                "prof_website": "",
                "prof_rating": 3,
-               "prof_office_hours": "online"
+               "prof_office_hours": "MW 4:30pm - 5:30pm, TTH 10:00am - 11:30am"
             }
          ],
          "course_start": "08-30-2021",
@@ -137,25 +137,60 @@
          "course_assignments": [
             {
                "assignment_id": 0,
-               "assignment_due_date": "Tuesday",
-               "assignment_title": "Zybooks Assignment",
+               "assignment_due_date": "Sunday",
+               "assignment_title": "Writing Assignment",
                "assignment_grade": "",
-               "assignment_link": "https://learn.zybooks.com/zybook/FARMINGDALEBCS120FriedFall2021?selectedPanel=assignments-panel"
+               "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_47593_1&content_id=_1996014_1&mode=reset"
             },
             {
                "assignment_id": 0,
-               "assignment_due_date": "Sunday",
-               "assignment_title": "Quiz",
+               "assignment_due_date": "Tues",
+               "assignment_title": "Writing Assignment",
                "assignment_grade": "",
                "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset"
             },
             {
-               "assignment_id": 0,
+               "assignment_id": 1,
                "assignment_due_date": "Tuesday",
                "assignment_title": "Homework Assignment",
                "assignment_grade": "",
                "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset"
             }
+         ]
+      },
+      {
+         "id": 3,
+         "course_name": "MLG307 - French and Francophone Fiction and Film",
+         "course_desc": "This course will explore the relationship between literary works and their film adaptations in France and all over the French-speaking world. Selections will be read from novels, short stories, and poems, and major literary movements will be discussed. Students will analyze how literary images and themes are translated onto the big screen.",
+         "course_id": 12,
+         "course_meetings": [
+            {
+               "day": "Tuesday",
+               "time": "12:15pm",
+               "room": "239 Gleeson Hall"
+            },
+            {
+               "day": "Thursday",
+               "time": "12:15pm",
+               "room": "239 Gleeson Hall"
+            }
+         ],
+         "course_sect": "91920",
+         "course_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_47488_1&content_id=_1995804_1&mode=reset",
+         "course_prof": [
+            {
+               "prof_name": "David Kirsh",
+               "prof_email": "kirschdj@farmingdale.edu",
+               "prof_office": "206 Memorial Hall",
+               "prof_website": "",
+               "prof_rating": 1,
+               "prof_office_hours": "TTH 8:00am - 11:00am"
+            }
+         ],
+         "course_start": "08-30-2021",
+         "course_end": "12-20-2021",
+         "course_assignments": [
+            {}
          ]
       }
    ]
