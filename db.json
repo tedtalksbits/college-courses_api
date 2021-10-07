@@ -193,7 +193,13 @@
          "course_start": "08-30-2021",
          "course_end": "12-20-2021",
          "course_assignments": [
-            {}
+            {
+               "assignment_id": null,
+               "assignment_due_date": "",
+               "assignment_title": "",
+               "assignment_grade": "",
+               "assignment_link": ""
+            }
          ],
          "theme_id": 3
       }
