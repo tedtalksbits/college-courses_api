@@ -146,14 +146,14 @@
             },
             {
                "assignment_id": 0,
-               "assignment_due_date": "Tues",
+               "assignment_due_date": "Tuesday",
                "assignment_title": "Writing Assignment",
                "assignment_grade": "",
                "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset"
             },
             {
                "assignment_id": 1,
-               "assignment_due_date": "Tuesday",
+               "assignment_due_date": "Thursday",
                "assignment_title": "Homework Assignment",
                "assignment_grade": "",
                "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset"
