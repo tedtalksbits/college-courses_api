@@ -37,21 +37,30 @@
                "assignment_due_date": "Tuesday",
                "assignment_title": "Zybooks Assignment",
                "assignment_grade": "",
-               "assignment_link": "https://learn.zybooks.com/zybook/FARMINGDALEBCS120FriedFall2021?selectedPanel=assignments-panel"
+               "assignment_link": "https://learn.zybooks.com/zybook/FARMINGDALEBCS120FriedFall2021?selectedPanel=assignments-panel",
+               "urgent": true,
+               "is_recurring": true,
+               "is_completed": false
             },
             {
                "assignment_id": 1,
                "assignment_due_date": "Sunday",
                "assignment_title": "Quiz",
                "assignment_grade": "",
-               "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset"
+               "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset",
+               "urgent": true,
+               "is_recurring": true,
+               "is_completed": false
             },
             {
                "assignment_id": 2,
                "assignment_due_date": "Thursday",
                "assignment_title": "Homework Assignment",
                "assignment_grade": "",
-               "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset"
+               "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset",
+               "urgent": true,
+               "is_recurring": true,
+               "is_completed": false
             }
          ],
          "theme_id": 0
@@ -93,14 +102,20 @@
                "assignment_due_date": "Monday",
                "assignment_title": "Interactive Questions",
                "assignment_grade": "",
-               "assignment_link": "https://farmingdale.open.suny.edu/bbcswebdav/pid-2010330-dt-content-rid-22252992_1/xid-22252992_1"
+               "assignment_link": "https://farmingdale.open.suny.edu/bbcswebdav/pid-2010330-dt-content-rid-22252992_1/xid-22252992_1",
+               "urgent": false,
+               "is_recurring": true,
+               "is_completed": false
             },
             {
                "assignment_id": 1,
                "assignment_due_date": "Wednesday",
                "assignment_title": "SAM Project Lab",
                "assignment_grade": "",
-               "assignment_link": "https://farmingdale.open.suny.edu/webapps/bbgs-mindlinks-BBLEARN/app/launch?destination=mindlinks_launch&course_id=_46546_1&content_id=_2012540_1"
+               "assignment_link": "https://farmingdale.open.suny.edu/webapps/bbgs-mindlinks-BBLEARN/app/launch?destination=mindlinks_launch&course_id=_46546_1&content_id=_2012540_1",
+               "urgent": true,
+               "is_recurring": true,
+               "is_completed": false
             }
          ],
          "theme_id": 1
@@ -130,7 +145,7 @@
                "prof_email": "iversoc@farmingdale.edu",
                "prof_office": "38 Knapp Hall",
                "prof_website": "",
-               "prof_rating": 3,
+               "prof_rating": 5,
                "prof_office_hours": "MW 4:30pm - 5:30pm, TTH 10:00am - 11:30am"
             }
          ],
@@ -139,24 +154,33 @@
          "course_assignments": [
             {
                "assignment_id": 0,
-               "assignment_due_date": "Sunday",
-               "assignment_title": "Writing Assignment",
+               "assignment_due_date": "Monday",
+               "assignment_title": "Quiz",
                "assignment_grade": "",
-               "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_47593_1&content_id=_1996014_1&mode=reset"
-            },
-            {
-               "assignment_id": 0,
-               "assignment_due_date": "Tuesday",
-               "assignment_title": "Writing Assignment",
-               "assignment_grade": "",
-               "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset"
+               "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_47593_1&content_id=_1996014_1&mode=reset",
+               "urgent": false,
+               "is_recurring": true,
+               "is_completed": false
             },
             {
                "assignment_id": 1,
-               "assignment_due_date": "Tuesday",
-               "assignment_title": "Homework Assignment",
+               "assignment_due_date": "Wednesday",
+               "assignment_title": "Writing Assignment",
                "assignment_grade": "",
-               "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset"
+               "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset",
+               "urgent": false,
+               "is_recurring": true,
+               "is_completed": false
+            },
+            {
+               "assignment_id": 2,
+               "assignment_due_date": "",
+               "assignment_title": "Final Profolio",
+               "assignment_grade": "",
+               "assignment_link": "https://farmingdale.open.suny.edu/webapps/blackboard/content/listContent.jsp?course_id=_49994_1&content_id=_2000816_1&mode=reset",
+               "urgent": true,
+               "is_recurring": false,
+               "is_completed": false
             }
          ],
          "theme_id": 2
@@ -203,5 +227,6 @@
          ],
          "theme_id": 3
       }
-   ]
+   ],
+   "upcoming_courses": []
 }
