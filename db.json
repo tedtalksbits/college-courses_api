@@ -228,5 +228,66 @@
          "theme_id": 3
       }
    ],
-   "upcoming_courses": []
+   "upcoming_courses": [
+      {
+         "title": "new one",
+         "text": "What the hell happen?",
+         "created_at": "2021-12-29T09:49:45.444Z",
+         "id": "e71a81d6-6526-48b0-a6df-00f414ff758d",
+         "done": true,
+         "doing": false,
+         "completed_at": "",
+         "img": ""
+      },
+      {
+         "title": "ninja time 🥷🏽",
+         "text": "do something stealthy!",
+         "created_at": "2021-12-29T09:51:18.033Z",
+         "id": "65c52184-f197-43d5-b4f9-96fc3e40aa8e",
+         "done": true,
+         "doing": false,
+         "completed_at": "",
+         "img": ""
+      },
+      {
+         "title": "trial",
+         "text": "checking",
+         "created_at": "2021-12-29T09:53:42.542Z",
+         "id": "65361da9-5314-4882-9eb6-1845bf7a5046",
+         "done": true,
+         "doing": false,
+         "completed_at": "",
+         "img": ""
+      },
+      {
+         "title": "new",
+         "text": "Get good at photography. 📸",
+         "created_at": "2021-12-29T10:41:25.679Z",
+         "id": "10f6e24a-91a8-4f70-8ea0-25699b037b9a",
+         "done": false,
+         "doing": true,
+         "completed_at": "",
+         "img": "https://images.unsplash.com/photo-1611273651216-29b4f282d36b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1974&q=80"
+      },
+      {
+         "title": "Fix form",
+         "text": "form should reset after submission. ",
+         "created_at": "2021-12-29T10:44:02.059Z",
+         "id": "0acb95f8-3aa1-4990-9f3c-a29b3f6481d6",
+         "done": false,
+         "doing": false,
+         "completed_at": "",
+         "img": ""
+      },
+      {
+         "title": "Input validation",
+         "text": "⛔️ Rules to implement: Posts can not be empty",
+         "created_at": "2021-12-29T10:46:06.361Z",
+         "id": "b825598d-b970-4ef5-affd-af012abeb135",
+         "done": false,
+         "doing": false,
+         "completed_at": "",
+         "img": ""
+      }
+   ]
 }
